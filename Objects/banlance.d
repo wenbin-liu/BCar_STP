@@ -1,0 +1,34 @@
+.\objects\banlance.o: USER\src\banlance.c
+.\objects\banlance.o: D:\Program Files (x86)\Keill_5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\banlance.o: D:\Program Files (x86)\Keill_5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\banlance.o: .\USER\inc\mpu6050.h
+.\objects\banlance.o: .\FWlib\inc\stm32f10x_i2c.h
+.\objects\banlance.o: .\STM32\stm32f10x.h
+.\objects\banlance.o: .\CORE\core_cm3.h
+.\objects\banlance.o: .\STM32\system_stm32f10x.h
+.\objects\banlance.o: .\STM32\stm32f10x_conf.h
+.\objects\banlance.o: .\FWlib\inc\stm32f10x_adc.h
+.\objects\banlance.o: .\STM32\stm32f10x.h
+.\objects\banlance.o: .\FWlib\inc\stm32f10x_bkp.h
+.\objects\banlance.o: .\FWlib\inc\stm32f10x_can.h
+.\objects\banlance.o: .\FWlib\inc\stm32f10x_cec.h
+.\objects\banlance.o: .\FWlib\inc\stm32f10x_crc.h
+.\objects\banlance.o: .\FWlib\inc\stm32f10x_dac.h
+.\objects\banlance.o: .\FWlib\inc\stm32f10x_dbgmcu.h
+.\objects\banlance.o: .\FWlib\inc\stm32f10x_dma.h
+.\objects\banlance.o: .\FWlib\inc\stm32f10x_exti.h
+.\objects\banlance.o: .\FWlib\inc\stm32f10x_flash.h
+.\objects\banlance.o: .\FWlib\inc\stm32f10x_fsmc.h
+.\objects\banlance.o: .\FWlib\inc\stm32f10x_gpio.h
+.\objects\banlance.o: .\FWlib\inc\stm32f10x_i2c.h
+.\objects\banlance.o: .\FWlib\inc\stm32f10x_iwdg.h
+.\objects\banlance.o: .\FWlib\inc\stm32f10x_pwr.h
+.\objects\banlance.o: .\FWlib\inc\stm32f10x_rcc.h
+.\objects\banlance.o: .\FWlib\inc\stm32f10x_rtc.h
+.\objects\banlance.o: .\FWlib\inc\stm32f10x_sdio.h
+.\objects\banlance.o: .\FWlib\inc\stm32f10x_spi.h
+.\objects\banlance.o: .\FWlib\inc\stm32f10x_tim.h
+.\objects\banlance.o: .\FWlib\inc\stm32f10x_usart.h
+.\objects\banlance.o: .\FWlib\inc\stm32f10x_wwdg.h
+.\objects\banlance.o: .\FWlib\inc\misc.h
+.\objects\banlance.o: .\USER\inc\delay.h
